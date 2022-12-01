@@ -1,2 +1,2 @@
 # snake-game
-snake game using python and OOP
+snake game with Turtle using python and OOP
