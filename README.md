@@ -1,2 +1,1 @@
-# snake-game
-snake game with Turtle using python and OOP
+<img src="https://github.com/Abdessamad7687/snake-game/blob/main/images/demo.jpg" >
